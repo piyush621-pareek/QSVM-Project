@@ -5,7 +5,7 @@ import pandas as pd
 import plotly.graph_objects as go
 import plotly.express as px
 
-BACKEND_URL = "http://127.0.0.1:8000"
+BACKEND_URL = "https://qsvm-backend-77d3.onrender.com"
 st.set_page_config(page_title="The Lab", layout="wide")
 st.title("🔬 The Quantum ML Lab")
 
