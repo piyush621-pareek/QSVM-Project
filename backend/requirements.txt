@@ -2,3 +2,7 @@ fastapi
 uvicorn
 sqlalchemy
 pydantic
+qiskit
+qiskit-machine-learning
+scikit-learn
+numpy
